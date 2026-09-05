@@ -1,5 +1,3 @@
----
-
 **Инструкция по запуску проекта**
 
 1. Установите [.NET 8](https://dotnet.microsoft.com/download/dotnet/8.0).
